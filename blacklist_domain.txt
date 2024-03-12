@@ -12,4 +12,12 @@ eh.culticmealily.com
 *.culticmealily.com
 hm.baidu.com
 *.spotofspawn.com
+technotology.com
+*.technotology.com
+chroococcoid.sbs
+*.chroococcoid.sbs
+whataboutnews.com
+*.whataboutnews.com
+
+
 
