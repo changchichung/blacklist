@@ -18,6 +18,8 @@ chroococcoid.sbs
 *.chroococcoid.sbs
 whataboutnews.com
 *.whataboutnews.com
+arkrecode3.ero-labs.com
+*.ero-labs.com
 
 
 
