@@ -1,8 +1,15 @@
 toluidehecht.top
+*.toluidehecht.top
 wqtn4stb5jv6mepsiktgbd0a.gossipinvest.com
+*.gossipinvest.com
 ultimatedloffer.top
+*.ultimatedloffer.top
 fmtwtrk.live
+*.fmtwtrk.live
 tongren.jp
+*.tongren.jp
 eh.culticmealily.com
+*.culticmealily.com
 hm.baidu.com
-www.spotofspawn.com
+*.spotofspawn.com
+
