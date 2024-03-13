@@ -20,6 +20,8 @@ whataboutnews.com
 *.whataboutnews.com
 arkrecode3.ero-labs.com
 *.ero-labs.com
-
-
+sorbishabience.top
+*.sorbishabience.top
+wqtn4stb5jv6mepsiktgbd0a.gossipinvest.com
+*.gossipinvest.com
 
