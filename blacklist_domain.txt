@@ -26,4 +26,7 @@ wqtn4stb5jv6mepsiktgbd0a.gossipinvest.com
 *.gossipinvest.com
 88p2p.com
 *.88p2p.com
-
+bncloudfl.com
+*.bncloudfl.com
+2158novffp.com
+iezxmddndn.com
