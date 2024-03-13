@@ -1,3 +1,5 @@
+as.bayshorline.com
+*.bayshorline.com
 strpst.com
 *.strpst.com
 ogp.me
