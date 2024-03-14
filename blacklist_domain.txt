@@ -1,3 +1,11 @@
+orangeyreceive.top
+*.orangeyreceive.top
+*.edgesuite.net
+avalancheofnews.com
+*.avalancheofnews.com
+*.get-here-click.xyz
+*.onmantineer.com
+onmantineer.com
 ionisesproclei.top
 *.ionisesproclei.top
 guigebichir.website
